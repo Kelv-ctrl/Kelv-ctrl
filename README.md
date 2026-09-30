@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Hi, I'm Kelvin
+## I'm Kelvin
 
 I'm a Software Developer, focused on growing professionally and building real-world solutions.
 
